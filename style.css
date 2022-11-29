@@ -1,0 +1,21 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.accordion {
+  --bs-accordion-btn-focus-border-color:none;
+  --bs-accordion-btn-focus-box-shadow:none;
+  --bs-accordion-active-color:#212529;
+  --bs-accordion-active-bg:#ededed;
+ }
+ .menu-button {
+  margin-top: 4px;
+ }
+
+.btn-primary {
+
+    background-color: rgb(215, 126, 18);
+    border: none;
+}
